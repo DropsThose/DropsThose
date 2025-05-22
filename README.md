@@ -9,14 +9,14 @@
 * **2025 NCAE Cyber Games Competition, Southwest Regional:** Achieved **Third Place**. I led a Red vs. Blue team event, specifically responsible for the configuration and management of a Linux BIND DNS server. Our team was the first to successfully deploy our DNS server.
 
 ### 🏆 Certifications
-* CompTIA A+
-* CompTIA Network+
-* CompTIA Security+
-* CompTIA CySA+
-* CompTIA PenTest+
-* CompTIA Project+
-* ITIL 4 Foundation
-* LPI Linux Essentials
+* [CompTIA A+](https://www.credly.com/badges/fbd4ecbf-fed7-4cbd-b970-f61f27a71b27)
+* [CompTIA Network+](https://www.credly.com/badges/aa7ac825-b49f-45da-89a0-1fa5bde429cc)
+* [CompTIA Security+](https://www.credly.com/badges/330f4f0f-a331-4b4e-80bb-cd54efbc2125)
+* [CompTIA CySA+](https://www.credly.com/badges/82f2ed3e-fe52-48c2-b338-8f2ddcdda9fc)
+* [CompTIA PenTest+](https://www.credly.com/badges/42165018-7e68-45c6-8acf-b09e79aa7c97)
+* [CompTIA Project+](https://www.credly.com/badges/1afe20a4-87dc-4c39-bd42-af07c79a82f8)
+*  ITIL 4 Foundation
+* [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000646338/s7kd882fc7)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiril-gavrilyuk/)
