@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kiril, an [IT Professional](https://www.linkedin.com/in/kiril-gavrilyuk/)
 
 <!--
 **DropsThose/DropsThose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
