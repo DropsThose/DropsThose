@@ -17,6 +17,7 @@
 * [CompTIA Project+](https://www.credly.com/badges/1afe20a4-87dc-4c39-bd42-af07c79a82f8)
 *  ITIL 4 Foundation
 * [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000646338/s7kd882fc7)
+* [ISC2 SSCP](https://www.credly.com/badges/1ad5875b-a118-4343-bfd0-5761d27f6c76)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiril-gavrilyuk/)
