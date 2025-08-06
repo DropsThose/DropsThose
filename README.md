@@ -1,6 +1,14 @@
 # Hi, I'm Kiril, an [IT Professional](https://www.linkedin.com/in/kiril-gavrilyuk/)
 
-### 🚀 Cybersecurity Challenges
+<h2>👨‍💻 Projects:</h2>
+<h3>🔐 Cybersecurity:</h3>
+
+* [Azure Honey Pot](https://github.com/DropsThose/Azure-Honey-Pot)
+
+* [Azure Active Directory Lab](https://github.com/DropsThose/Azure-Honey-Pot)
+
+<h2>🚀 Cybersecurity Challenges:</h2>
+
 * **2025 National Cyber League (NCL), Spring Individual Game ([Scouting Report](https://cyberskyline.com/report/M2WX7H9PTVYN)):** Placed **1455th out of 8573 participants (84th percentile overall)**, demonstrating strong capabilities across multiple domains. My key strengths include:
     * **Network Traffic Analysis:** Analyzed network traffic using Wireshark to identify malicious and benign activity. Cracked Wi-Fi passwords by discovering handshake packets and leveraging aircrack-ng.
     * **Web Application Exploitation:** Exploited directory traversal vulnerabilities in web applications to access restricted files.
