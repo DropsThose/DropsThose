@@ -5,7 +5,7 @@
 
 * [Azure Honey Pot](https://github.com/DropsThose/Azure-Honey-Pot)
 
-* [Azure Active Directory Lab](https://github.com/DropsThose/Azure-Honey-Pot)
+* [Azure Active Directory Lab](https://github.com/DropsThose/Azure-Active-Directory-Lab)
 
 <h2>🚀 Cybersecurity Challenges:</h2>
 
