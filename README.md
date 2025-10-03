@@ -26,6 +26,7 @@
 *  ITIL 4 Foundation
 * [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000646338/s7kd882fc7)
 * [ISC2 SSCP](https://www.credly.com/badges/1ad5875b-a118-4343-bfd0-5761d27f6c76)
+* [GFACT](https://www.credly.com/badges/805a34a3-b0d7-4a76-ba5d-2e60a27c0a6e)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiril-gavrilyuk/)
