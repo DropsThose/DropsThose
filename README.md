@@ -9,13 +9,16 @@
 
 <h2>🚀 Cybersecurity Challenges:</h2>
 
-* **2025 National Cyber League (NCL), Spring Individual Game ([Scouting Report](https://cyberskyline.com/report/M2WX7H9PTVYN)):** Placed **1455th out of 8573 participants (84th percentile overall)**, demonstrating strong capabilities across multiple domains. My key strengths include:
-    * **Network Traffic Analysis:** Analyzed network traffic using Wireshark to identify malicious and benign activity. Cracked Wi-Fi passwords by discovering handshake packets and leveraging aircrack-ng.
-    * **Web Application Exploitation:** Exploited directory traversal vulnerabilities in web applications to access restricted files.
-    * **Password Cracking:** Identified password hash algorithms using hash-identifier. Cracked identified hashes (e.g., MD5, NTLM) with hashcat.
+* **2025 National Cyber League (NCL), Spring Individual Game ([Scouting Report](https://cyberskyline.com/report/M2WX7H9PTVYN)):** **Placed 84th percentile overall**
+    * Analyzed network traffic using Wireshark to identify malicious and benign activity. Cracked Wi-Fi passwords by discovering handshake packets and leveraging aircrack-ng.
+    * Exploited directory traversal vulnerabilities in web applications to access restricted files.
+    * Identified password hash algorithms using hash-identifier. Cracked identified hashes with hashcat.
 
-* **2025 NCAE Cyber Games Competition, Southwest Regional:** Achieved **Third Place**. I led a Red vs. Blue team event, specifically responsible for the configuration and management of a Linux BIND DNS server. Our team was the first to successfully deploy our DNS server.
-
+* **2025 NCAE Cyber Games Competition, Southwest Regional:** **Third Place**
+    * Captained the team to a third-place finish in a high-pressure, regional Red vs. Blue competition, directing defensive strategy and coordinating team member roles and responsibilities.     
+    * Engineered the rapid deployment of a critical Linux BIND DNS server, enabling our team to become the first of all competitors to bring a core network service online.
+    * Demonstrated initiative and rapid learning by self-teaching an unfamiliar server configuration overnight, including scripting the setup process to ensure a fast and error-free deployment on game day.
+    * Showcased technical adaptability by successfully configuring the server entirely via the command-line interface (CLI) after discovering the expected GUI environment was unavailable.
 ### 🏆 Certifications
 * [CompTIA A+](https://www.credly.com/badges/fbd4ecbf-fed7-4cbd-b970-f61f27a71b27)
 * [CompTIA Network+](https://www.credly.com/badges/aa7ac825-b49f-45da-89a0-1fa5bde429cc)
