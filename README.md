@@ -9,6 +9,11 @@
 
 <h2>🚀 Cybersecurity Challenges:</h2>
 
+* **2025 National Cyber League (NCL), Fall Individual Game ([Scouting Report](https://cyberskyline.com/report/8VPACKHEERLQ)):** **Placed 92nd percentile overall**
+    * Identified and exploited a critical buffer overflow vulnerability in a web application to demonstrate arbitrary code execution.
+    * Performed log analysis using Linux command-line tools (awk, grep) to parse large web logs and isolate indicators of compromise.
+    * Executed deep packet inspection with Wireshark to analyze network traffic, successfully reconstructing a malicious file download.
+
 * **2025 National Cyber League (NCL), Spring Individual Game ([Scouting Report](https://cyberskyline.com/report/M2WX7H9PTVYN)):** **Placed 84th percentile overall**
     * Analyzed network traffic using Wireshark to identify malicious and benign activity. Cracked Wi-Fi passwords by discovering handshake packets and leveraging aircrack-ng.
     * Exploited directory traversal vulnerabilities in web applications to access restricted files.
