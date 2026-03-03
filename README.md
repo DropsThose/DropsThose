@@ -37,6 +37,7 @@
 * [GFACT](https://www.credly.com/badges/805a34a3-b0d7-4a76-ba5d-2e60a27c0a6e)
 * [CompTIA SecurityX](https://www.credly.com/badges/56fd3cc2-8523-4b5d-bfd1-da751e945e94)
 * [GSEC](https://www.credly.com/badges/d6e22cf5-871c-497a-9116-b64c7629b19c)
+* [GCIH](https://www.credly.com/badges/9c968095-161e-409b-91fd-c95128089c2a)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiril-gavrilyuk/)
