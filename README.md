@@ -7,6 +7,8 @@
 
 * [Azure Active Directory Lab](https://github.com/DropsThose/Azure-Active-Directory-Lab)
 
+* [IoT Research Lab](https://github.com/DropsThose/IoT-Research-Lab)
+
 <h2>🚀 Cybersecurity Challenges:</h2>
 
 * **2025 National Cyber League (NCL), Fall Individual Game ([Scouting Report](https://cyberskyline.com/report/8VPACKHEERLQ)):** **Placed 92nd percentile overall**
