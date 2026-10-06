@@ -5,6 +5,7 @@
 📍 Sacramento, CA · [LinkedIn](https://www.linkedin.com/in/kiril-gavrilyuk/) · [YouTube](https://www.youtube.com/@KirilGDoesIT) · [Medium](https://medium.com/@kiril.gavri04)
 
 ## Labs/Projects
+* **[Palo Alto Firewall VM Edge Project](https://github.com/DropsThose/palo-alto-firewall-edge)** - Running my family's home network behind a Palo Alto VM-Series firewall on Proxmox, with real users and real stakes.
 * **[Multi-Vendor Site-to-Site IPsec Lab: PAN-OS ↔ FortiOS](https://github.com/DropsThose/panos-fortios-ipsec-lab)** - Site-to-site IPsec Tunnel VPN lab between PAN-OS and FortiOS with troubleshooting.
 * **[Azure Honey Pot](https://github.com/DropsThose/Azure-Honey-Pot)** - Exposed Azure VM with Log Analytics + Microsoft Sentinel. Compared insecure vs NIST-aligned zero-trust NSG configs over 24 hours each (18,387 failed logons → 0).
 * **[IoT Research Lab](https://github.com/DropsThose/IoT-Research-Lab)** - Segmented IoT VLAN with Cisco, FortiGate, Security Onion, Zeek, and RITA to hunt beaconing / C2-like behavior.
