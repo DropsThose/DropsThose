@@ -34,9 +34,9 @@
 
 ## Education
 
+* SANS Cyber Academy - SANS Technology Institute (Feb 2026)
 * MS, Cybersecurity and Information Assurance - Western Governors University (2025)
 * BS, Cybersecurity and Information Assurance - Western Governors University (2025)
-* SANS Cyber Academy - SANS Technology Institute (Feb 2026)
 
 ## Let's connect
 
